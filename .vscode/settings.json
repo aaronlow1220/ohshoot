@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ohshoot2.sln"
+    "dotnet.defaultSolution": "ohshoot.sln"
 }
