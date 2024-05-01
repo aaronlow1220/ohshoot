@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /ProjectSettings/Packages/community.testtools.codecoverage/Settings.json
+/.vscode/*
